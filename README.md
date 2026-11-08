@@ -10,6 +10,9 @@ Core Tool Stack & Workflow
 
 
 Key Deliverables & Client Outcomes
+
 •​Zero-Hallucination Responses:Document-grounded testing to keep chatbots strictly aligned with company policies.
+
 •​Adversarial Red-Teaming:Security scans to catch prompt injections and safety boundary breaks.
+
 •​Visual Bug Reports:Actionable video walkthroughs and reproduction steps for engineering teams.
